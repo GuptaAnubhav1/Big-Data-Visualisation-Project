@@ -1,6 +1,6 @@
 # Big-Data-Visualisation-Project
 **Combined Group Project**
-**Team**/
+**Team**\
 **1 Anubhav**//
 **2 Aditya**
 **3 Ayush**
